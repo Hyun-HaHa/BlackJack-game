@@ -16,5 +16,4 @@ JAVA 1.8.0 (eclipse)
 
 <br>
 
-## 🔗 상세설명
-https://velog.io/@hyun_ha/Project-Blackjack-game
+
